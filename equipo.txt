@@ -2,3 +2,6 @@ cambios hechos por Sergio
 angel: probando
 emaciasro: hola equipo
 sergio: probando de nuevo
+
+
+sergio: meto nuevos cambios en equipo.txt desde mi rama personal
