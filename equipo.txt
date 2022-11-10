@@ -3,5 +3,5 @@ angel: probando
 emaciasro: hola equipo
 sergio: probando de nuevo
 
-
 sergio: meto nuevos cambios en equipo.txt desde mi rama personal
+10/11/2022, angel. Nuevos cambios.
