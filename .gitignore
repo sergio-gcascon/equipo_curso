@@ -1,11 +1,11 @@
-# Ignore object files
+# Ignore object files inside /bin
 
-*.o
+bin/*.o
 
 # Ingore *.md in /doc
 
-/doc/*.md
+doc/*.md
 
 # Except README
 
-!/Doc/README.md
+!doc/README.md
