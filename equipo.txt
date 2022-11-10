@@ -5,3 +5,4 @@ sergio: probando de nuevo
 
 
 sergio: meto nuevos cambios en equipo.txt desde mi rama personal
+sergio: más cambios en el archivo para tener problemas
