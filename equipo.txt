@@ -3,3 +3,9 @@ angel: probando
 emaciasro: hola equipo
 sergio: probando de nuevo
 emaciasro: prub
+
+
+sergio: meto nuevos cambios en equipo.txt desde mi rama personal
+10/11/2022, angel. Nuevos cambios.
+sergio (segundo commit): más cambios en el archivo para tener problemas
+
