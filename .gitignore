@@ -1,0 +1,11 @@
+# Ignore object files
+
+*.o
+
+# Ingore *.md in /doc
+
+/doc/*.md
+
+# Except README
+
+!/Doc/README.md
