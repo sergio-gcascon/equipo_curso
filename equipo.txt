@@ -5,4 +5,5 @@ sergio: probando de nuevo
 
 
 sergio: meto nuevos cambios en equipo.txt desde mi rama personal
-sergio: más cambios en el archivo para tener problemas
+10/11/2022, angel. Nuevos cambios.
+sergio (segundo commit): más cambios en el archivo para tener problemas
