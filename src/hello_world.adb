@@ -18,5 +18,6 @@ begin
 
    end if;
 
-
+   -- New Hola
+   Ada.Text_IO.Put_Line("¡Hola de nuevo, mundo!");
 end Hola_Mundo;
